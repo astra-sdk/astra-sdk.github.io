@@ -1,0 +1,9 @@
+com.datastax.astra.sdk
+com.datastax.astra.sdk.config
+com.datastax.astra.sdk.databases
+com.datastax.astra.sdk.databases.domain
+com.datastax.astra.sdk.organizations
+com.datastax.astra.sdk.organizations.domain
+com.datastax.astra.sdk.streaming
+com.datastax.astra.sdk.streaming.domain
+com.datastax.astra.sdk.utils
